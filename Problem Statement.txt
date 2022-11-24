@@ -1,0 +1,28 @@
+Credit Card Lead Prediction
+
+Happy Customer Bank is a mid-sized private bank that deals in all kinds of banking products, like Savings accounts, Current accounts, 
+investment products, credit products, among other offerings.
+
+The bank also cross-sells products to its existing customers and to do so they use different kinds of communication like telecasting, 
+e-mails, recommendations on net banking, mobile banking, etc.
+
+In this case, the Happy Customer Bank wants to cross-sell its credit cards to its existing customers. The bank has identified a set of 
+customers that are eligible for taking these credit cards.
+
+Now, the bank is looking for your help in identifying customers that could show higher intent towards a recommended credit card, given:
+
+
+
+
+
+For attending this interview, please follow below instructions
+
+1. Mock will start with your professional impressive introduction in your style 
+( or follow ---->Name, Stream, Organization, Designation, Roles & Responsibilities, Technical skills, Strengths etc)  3-5minites
+
+2. After introduction we will move to project explanation (problem statement to project deployments in detail with your understanding) 
+with QnA senssion. 15minites
+
+3. Sql + Python QnA session 5minites
+
+4. 5minite quick guidance, suggestion and discussion session.
